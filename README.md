@@ -1,4 +1,4 @@
-## NextJS Logger
+## NextJS API---> Logger
 
 #### src/lib/logger.ts
 ```bash
