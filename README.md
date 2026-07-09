@@ -1,6 +1,6 @@
 ## NextJS API---> Logger
 
-#### src/lib/logger.ts
+#### src/lib/logger.ts for small project
 ```bash
 type LogContext = Record<string, unknown>;
 
