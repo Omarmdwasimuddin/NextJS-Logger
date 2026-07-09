@@ -12,7 +12,7 @@ npm install -D pino-pretty
 ```
 ---
 
-#### src/lib/logger.ts
+#### src/lib/logger.ts   [Production + Development]
 ```bash
 import pino from "pino";
 
